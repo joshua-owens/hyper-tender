@@ -1,0 +1,9 @@
+{
+  "name": "hyper-tender",
+  "version": "1.0.0",
+  "description": "A dark Hyper theme inspired by tender.vim",
+  "main": "index.js",
+  "repository": "https://github.com/joshua-owens/hyper-tender",
+  "author": "Josh Owens <me@jowens.dev>",
+  "license": "MIT"
+}
