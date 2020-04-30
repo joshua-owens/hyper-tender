@@ -36,10 +36,10 @@ exports.decorateConfig = config => {
     css: `
       ${config.css || ''}
       .tabs_list .tab_tab.tab_active .tab_text  {
-	      background: ${backgroundColor};
+        background: ${backgroundColor};
       }
       .tab_active:before {
-	      border-color: ${borderColor};
+        border-color: ${borderColor};
       }
     `
   });
