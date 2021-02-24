@@ -4,6 +4,7 @@ const backgroundColor = '#282828';
 const foregroundColor = '#eeeeee';
 const borderColor = '#282828';
 const cursorColor = '#eeeeee';
+
 const colors = {
   black: '#282828',
   red: '#f43753',
